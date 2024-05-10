@@ -23,6 +23,24 @@
 		background-color: #B63D32;
 		text-align: center;
 	}
+	ul{
+		display: inline-block;
+		margin:0px;
+	}
+	li{
+		list-style-type: none;
+		float: left;
+		text-align:center;
+	}
+	li a{
+		display:block;
+		padding: 15px 20px;
+		color: #FFFFFF;
+		text-decoration: none;
+	}
+	li a:hover{
+		color: #FFC90E;
+	}
 	</style>
 <style>
 </head>
